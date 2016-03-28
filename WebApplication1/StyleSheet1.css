@@ -1,6 +1,6 @@
 ﻿body form > textarea{
-    color:blue;
-    background-color:red;
+    color:red;
+    background-color:gray;
 }
 #nume{
     padding:100px;
