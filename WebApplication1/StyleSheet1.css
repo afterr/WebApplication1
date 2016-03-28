@@ -1,0 +1,12 @@
+﻿body form > textarea{
+    color:blue;
+    background-color:red;
+}
+#nume{
+    padding:100px;
+    margin:100px;
+    background-color:aliceblue;
+}
+body{
+    background-color:gray;
+}
